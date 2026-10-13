@@ -3,7 +3,7 @@
 [![Accuracy](https://img.shields.io/badge/Model%20Accuracy-91.21%25-emerald)](#-catboost-model-performance--95-confidence-bounds)
 [![R2 Score](https://img.shields.io/badge/R%C2%B2%20Score-0.9521-blue)](#-catboost-model-performance--95-confidence-bounds)
 [![Algorithm](https://img.shields.io/badge/Core%20Algorithm-CatBoost%20Regressor-orange)](#-catboost-model-performance--95-confidence-bounds)
-[![API](https://img.shields.io/badge/REST%20API-FastAPI%20(CORS%20Ready)-purple)](#-api-endpoints--react-integration)
+[![API](https://img.shields.io/badge/REST%20API-FastAPI%20(CORS%20Ready)-purple)](#-fastapi-rest-endpoints)
 
 ---
 
@@ -252,7 +252,7 @@ The model explains **why revenue is growing** and provides the exact rupee lift 
 
 ---
 
-## 🌐 API Endpoints & React Integration
+## 🌐 FastAPI REST Endpoints
 
 ### API Endpoints Summary
 
@@ -265,163 +265,6 @@ The model explains **why revenue is growing** and provides the exact rupee lift 
 | `GET` | `/docs` | Interactive Swagger UI playground | Interactive Web Page |
 
 *Note: CORS is pre-configured with `allow_origins=["*"]`, so calls from `localhost:3000` or `localhost:5173` work without proxy issues.*
-
----
-
-### Copy-Paste React Component (`SalesForecastWidget.jsx`)
-
-```jsx
-import React, { useState, useEffect } from 'react';
-
-export function SalesForecastWidget() {
-  const [data, setData] = useState(null);
-  const [loading, setLoading] = useState(true);
-  const [error, setError] = useState(null);
-
-  useEffect(() => {
-    fetch('http://127.0.0.1:8000/sales-forecast/next-month')
-      .then(res => {
-        if (!res.ok) throw new Error(`API error: ${res.status}`);
-        return res.json();
-      })
-      .then(json => {
-        setData(json);
-        setLoading(false);
-      })
-      .catch(err => {
-        setError(err.message);
-        setLoading(false);
-      });
-  }, []);
-
-  if (loading) {
-    return <div className="p-6 bg-slate-50 rounded-xl animate-pulse">Loading AI Sales Forecast...</div>;
-  }
-
-  if (error || !data) {
-    return <div className="p-6 bg-red-50 text-red-700 rounded-xl">Error: {error || 'Failed to load'}</div>;
-  }
-
-  const { core_metrics, forecast } = data;
-
-  return (
-    <div className="p-6 bg-white border border-slate-200 rounded-2xl shadow-sm space-y-6">
-      {/* Header */}
-      <div className="flex justify-between items-center border-b pb-4">
-        <div>
-          <h2 className="text-xl font-bold text-slate-900">AI Sales Forecast</h2>
-          <p className="text-sm text-slate-500">Target Month: {forecast.forecast_month}</p>
-        </div>
-        <span className="px-3 py-1 bg-emerald-50 text-emerald-700 text-xs font-semibold rounded-full border border-emerald-200">
-          Confidence: {core_metrics['Forecast Confidence Score']}
-        </span>
-      </div>
-
-      {/* Grid Cards */}
-      <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
-        {/* Hero Revenue Card */}
-        <div className="p-4 bg-gradient-to-br from-blue-50 to-indigo-50 border border-blue-100 rounded-xl">
-          <span className="text-xs font-semibold text-blue-700 uppercase tracking-wide">Predicted Revenue</span>
-          <p className="text-2xl font-black text-slate-900 mt-1">{core_metrics['Predicted Monthly Revenue']}</p>
-          <p className="text-xs text-slate-600 mt-2">
-            Safe Range: ₹{forecast.revenue_lower_bound.toLocaleString()} - ₹{forecast.revenue_upper_bound.toLocaleString()}
-          </p>
-        </div>
-
-        {/* Pipeline Health Card */}
-        <div className="p-4 bg-slate-50 border border-slate-100 rounded-xl">
-          <span className="text-xs font-semibold text-slate-500 uppercase tracking-wide">Pipeline Health</span>
-          <p className="text-2xl font-black text-slate-900 mt-1">{core_metrics['Pipeline Health Score']}</p>
-          <p className="text-xs text-slate-500 mt-2">Score calibrated across active leads</p>
-        </div>
-
-        {/* Deal Closure Trend Card */}
-        <div className="p-4 bg-slate-50 border border-slate-100 rounded-xl">
-          <span className="text-xs font-semibold text-slate-500 uppercase tracking-wide">Closure Momentum</span>
-          <p className="text-sm font-bold text-slate-800 mt-1">{core_metrics['Deal Closure Trend']}</p>
-          <p className="text-xs text-emerald-600 font-medium mt-2">{core_metrics['Revenue Growth Trend']}</p>
-        </div>
-      </div>
-
-      {/* Growth Drivers List */}
-      <div>
-        <h3 className="text-sm font-bold text-slate-800 uppercase tracking-wider mb-3">Top Revenue Drivers</h3>
-        <div className="space-y-2">
-          {forecast.top_factors?.map((factor, idx) => (
-            <div key={idx} className="flex justify-between items-center text-xs p-2 bg-slate-50 rounded-lg">
-              <span className="font-medium text-slate-700">{idx + 1}. {factor.feature.replace(/_/g, ' ')}</span>
-              <span className="font-bold text-blue-600">{factor.importance}% (+₹{factor.impact_on_revenue.toLocaleString()})</span>
-            </div>
-          ))}
-        </div>
-      </div>
-    </div>
-  );
-}
-```
-
----
-
-## 📦 Complete Standalone Mock JSON (Zero Python Required)
-
-Frontend developers can copy-paste this mock payload directly into MSW (Mock Service Worker), local JSON server, or state to build components:
-
-```json
-{
-  "status": "success",
-  "core_metrics": {
-    "Predicted Monthly Revenue": "Rs. 2,047,934.92",
-    "Pipeline Health Score": "40.82 / 100",
-    "Deal Closure Trend": "Upward (33.6 expected closed deals, +141.7% vs hist avg)",
-    "Revenue Growth Trend": "+2.0% projected growth (Upward Momentum Trajectory)",
-    "Forecast Confidence Score": "93.2%"
-  },
-  "forecast": {
-    "forecast_month": "January 2026",
-    "predicted_revenue": 2047934.92,
-    "pipeline_health_score": 40.82,
-    "confidence_score": 93.2,
-    "revenue_lower_bound": 1659945.12,
-    "revenue_upper_bound": 2435924.72,
-    "growth_percentage": -17.89,
-    "expected_closed_deals": 33.6,
-    "active_deals": 104.0,
-    "total_pipeline_value": 16243000.0,
-    "top_factors": [
-      {
-        "feature": "expected_deal_revenue",
-        "importance": 51.98,
-        "impact_on_revenue": 77970,
-        "direction": "increased"
-      },
-      {
-        "feature": "pipeline_quality_value",
-        "importance": 9.98,
-        "impact_on_revenue": 14965,
-        "direction": "increased"
-      },
-      {
-        "feature": "Deal Value",
-        "importance": 9.25,
-        "impact_on_revenue": 13868,
-        "direction": "increased"
-      },
-      {
-        "feature": "log_deal_value",
-        "importance": 5.97,
-        "impact_on_revenue": 8955,
-        "direction": "increased"
-      },
-      {
-        "feature": "pipeline_conversion_strength",
-        "importance": 3.23,
-        "impact_on_revenue": 4850,
-        "direction": "increased"
-      }
-    ]
-  }
-}
-```
 
 ---
 
