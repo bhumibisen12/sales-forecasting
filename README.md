@@ -215,17 +215,20 @@ The AI model does not just look at raw deal values. It derives **35 mathematical
 
 ---
 
-## 🏆 Model Benchmarks & 95% Confidence Bounds
+## 🏆 CatBoost Model Performance & 95% Confidence Bounds
 
-The engine evaluated 7 candidate algorithms on an 8-month holdout evaluation dataset (May 2025 to Dec 2025). **CatBoost Regressor** achieved the highest accuracy:
+The production model uses **CatBoost Regressor**, validated on an 8-month time-based holdout benchmark (May 2025 to Dec 2025):
 
-| Candidate Algorithm | $R^2$ Score (Variance Captured) | Model Accuracy | MAPE (Error Rate) | MAE (Mean Error) | RMSE |
-|---|---|---|---|---|---|
-| 🏆 **CatBoost Regressor (Chosen)** | **0.9521** | **91.21%** | **8.79%** | **₹1,46,254.81** | **₹1,85,197.65** |
-| XGBoost Regressor | 0.9037 | 87.61% | 12.39% | ₹2,05,340.10 | ₹2,51,890.30 |
-| LightGBM Regressor | 0.8158 | 81.20% | 18.80% | ₹3,12,450.00 | ₹3,78,210.50 |
-| Random Forest Regressor | 0.7840 | 78.85% | 21.15% | ₹3,51,200.00 | ₹4,15,600.00 |
-| Prophet (Facebook Time-Series) | -0.0221 | 46.71% | 53.29% | ₹8,90,400.00 | ₹10,20,500.00 |
+| Validation Benchmark Metric | Metric Value | Operational Meaning |
+|---|---|---|
+| **Selected Algorithm** | **CatBoost Regressor** | Enterprise gradient boosted decision trees |
+| **R² Score (Variance Explained)** | **0.9521 (95.21%)** | Proportion of real-world sales pattern captured |
+| **Model Overall Accuracy** | **91.21%** | Overall predictive accuracy ($100\% - \text{MAPE}$) |
+| **Mean Absolute Percentage Error (MAPE)** | **8.79%** | Average percentage error margin |
+| **Mean Absolute Error (MAE)** | **Rs. 1,46,254.81** | Average absolute rupee difference |
+| **Root Mean Squared Error (RMSE)** | **Rs. 1,85,197.65** | Standard deviation of prediction residuals |
+| **Residual Uncertainty (σ)** | **+/- Rs. 197,953.98** | Calibrated standard error for safety risk bounds |
+| **Total Features Evaluated** | **35 Features** | Deal attributes, ratios, and cyclical indicators |
 
 ### 95% Gaussian Confidence Bounds
 $$\text{Lower Bound} = \max\left(0, \hat{Y} - 1.96 \times ₹1,97,953.98\right) = \mathbf{₹16,59,945.12}\quad(\text{Worst-case limit})$$
