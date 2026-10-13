@@ -20,7 +20,7 @@ This project provides an **AI-driven Sales Forecasting Engine** that replaces gu
 
 ## 🗺️ The "Google Maps" Analogy (How to Understand It Easily)
 
-If you are new to AI or Data Science, think of this model like **Google Maps predicting your trip arrival time**:
+Think of this model like **Google Maps predicting your trip arrival time**:
 
 ```
 ┌────────────────────────────────────────────────────────────────────────┐
