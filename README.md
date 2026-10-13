@@ -1,8 +1,8 @@
 # 📈 AI CRM Sales Forecasting Engine
 > **Enterprise-Grade Predictive Revenue Engine & Deal Pipeline Analytics**  
-[![Accuracy](https://img.shields.io/badge/Model%20Accuracy-91.21%25-emerald)](#-model-benchmarks--95-confidence-bounds)
-[![R2 Score](https://img.shields.io/badge/R%C2%B2%20Score-0.9521-blue)](#-model-benchmarks--95-confidence-bounds)
-[![Algorithm](https://img.shields.io/badge/Core%20Algorithm-CatBoost%20Regressor-orange)](#-model-benchmarks--95-confidence-bounds)
+[![Accuracy](https://img.shields.io/badge/Model%20Accuracy-91.21%25-emerald)](#-catboost-model-performance--95-confidence-bounds)
+[![R2 Score](https://img.shields.io/badge/R%C2%B2%20Score-0.9521-blue)](#-catboost-model-performance--95-confidence-bounds)
+[![Algorithm](https://img.shields.io/badge/Core%20Algorithm-CatBoost%20Regressor-orange)](#-catboost-model-performance--95-confidence-bounds)
 [![API](https://img.shields.io/badge/REST%20API-FastAPI%20(CORS%20Ready)-purple)](#-api-endpoints--react-integration)
 
 ---
