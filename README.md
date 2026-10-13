@@ -248,7 +248,6 @@ The model explains **why revenue is growing** and provides the exact rupee lift 
 | 4 | Portfolio Deal Size Distribution | `log_deal_value` | **6.0%** | **+Rs. 8,955** |
 | 5 | Pipeline Conversion Strength | `pipeline_conversion_strength` | **3.2%** | **+Rs. 4,850** |
 
-*Render this as a horizontal ranked bar chart on your dashboard.*
 
 ---
 
@@ -264,7 +263,6 @@ The model explains **why revenue is growing** and provides the exact rupee lift 
 | `POST` | `/sales-forecast` | Multi-month horizon (1 to 6 months) | Array of multi-month forecast objects |
 | `GET` | `/docs` | Interactive Swagger UI playground | Interactive Web Page |
 
-*Note: CORS is pre-configured with `allow_origins=["*"]`, so calls from `localhost:3000` or `localhost:5173` work without proxy issues.*
 
 ---
 
@@ -321,4 +319,3 @@ python -c "from sales_forecaster import SalesForecaster; SalesForecaster().train
 
 ---
 
-*Author: AI CRM Engineering Team | Version: 2.0.0 Enterprise Production Ready*
