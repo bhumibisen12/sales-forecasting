@@ -1,0 +1,501 @@
+Record_ID,Month,Pipeline Health,Active Deals,Lead Scores,Conversion Probability,Deal Value,Customer Engagement,Follow-up Success Rate,Industry Type,Urgency,Budget,Preferred Communication Time,Lead Source,Seasonality
+LEAD-0001,2025-05,48.06,14,55.37,49.21,1945000,68.04,54.05,Professional Services,High,Enterprise,Late Morning,Website,Medium
+LEAD-0002,2024-03,40.91,13,61.74,41.57,1214000,72.95,60.26,Education,Medium,Medium,Afternoon,Email Campaign,High
+LEAD-0003,2023-08,23.41,10,28.63,12.47,848000,45.37,25.52,Hospitality,Medium,Low,Late Morning,Cold Call,Medium
+LEAD-0004,2024-09,43.82,3,63.33,19.97,546000,90.4,46.29,Logistics,Medium,Low,Morning,Cold Call,High
+LEAD-0005,2024-07,57.15,3,60.53,57.72,375000,63.23,33.82,Finance,Critical,High,Late Morning,Email Campaign,Medium
+LEAD-0006,2024-11,36.42,7,62.18,28.28,1590000,65.34,40.42,IT Services,Low,High,Morning,WhatsApp,High
+LEAD-0007,2023-11,45.75,13,54.52,22.24,1687000,77.75,36.27,Real Estate,High,Medium,Morning,Google Ads,High
+LEAD-0008,2023-11,34.56,2,54.51,28.7,267000,69.2,47.37,Logistics,Medium,High,Late Morning,Partner,High
+LEAD-0009,2024-12,46.36,1,50.13,44.0,2801000,82.16,48.27,IT Services,Medium,High,Afternoon,Website,Peak
+LEAD-0010,2025-12,41.95,9,52.48,40.27,1307000,70.17,43.26,Logistics,High,High,Evening,WhatsApp,Peak
+LEAD-0011,2024-12,39.43,9,51.2,31.87,2428000,53.98,20.84,Hospitality,Medium,High,Late Morning,Website,Peak
+LEAD-0012,2023-03,46.36,7,63.11,36.19,311000,71.51,26.73,IT Services,High,Medium,Morning,Partner,High
+LEAD-0013,2024-10,42.01,7,43.93,56.42,305000,44.41,58.34,Retail,Critical,High,Morning,Google Ads,High
+LEAD-0014,2023-02,30.54,3,54.67,37.62,760000,66.95,44.59,Manufacturing,Medium,Medium,Late Morning,Cold Call,Low
+LEAD-0015,2024-12,49.39,10,50.48,48.76,1239000,64.4,50.09,Retail,Medium,High,Afternoon,WhatsApp,Peak
+LEAD-0016,2025-06,27.98,2,45.75,29.85,3270000,61.25,28.89,Professional Services,Medium,High,Afternoon,Referral,High
+LEAD-0017,2023-02,38.01,11,58.17,51.99,1443000,62.69,55.16,Manufacturing,Critical,High,Morning,Referral,Low
+LEAD-0018,2024-09,10.0,7,35.91,15.62,709000,31.13,26.43,Retail,Medium,High,Morning,Partner,High
+LEAD-0019,2025-09,33.64,9,52.15,33.37,394000,55.12,28.46,Manufacturing,High,Low,Afternoon,Referral,High
+LEAD-0020,2023-12,43.61,1,49.33,23.51,2138000,66.67,27.63,Manufacturing,High,Medium,Evening,Cold Call,Peak
+LEAD-0021,2024-10,34.31,13,33.55,40.62,412000,67.88,37.44,Education,High,Enterprise,Late Morning,Partner,High
+LEAD-0022,2025-01,40.17,14,49.85,23.25,2883000,46.5,28.78,Real Estate,Low,Enterprise,Morning,Cold Call,Low
+LEAD-0023,2025-03,47.86,4,58.37,21.9,687000,87.78,48.84,Real Estate,High,Low,Morning,Google Ads,High
+LEAD-0024,2025-04,11.85,6,35.01,13.94,2802000,49.41,27.5,Education,Critical,Low,Afternoon,Website,Medium
+LEAD-0025,2024-04,30.62,7,68.69,10.72,1414000,82.45,53.84,Logistics,Low,Low,Late Morning,Google Ads,Medium
+LEAD-0026,2024-03,30.91,10,52.95,30.64,767000,72.69,36.29,Healthcare,Medium,High,Afternoon,Google Ads,High
+LEAD-0027,2023-03,44.27,7,55.99,45.04,576000,53.37,28.91,Logistics,Critical,High,Late Morning,Cold Call,High
+LEAD-0028,2023-07,45.39,10,77.48,43.02,658000,96.96,58.69,IT Services,Medium,Medium,Late Morning,Partner,Medium
+LEAD-0029,2024-09,12.9,2,48.69,23.63,1172000,43.51,10.92,IT Services,High,Medium,Late Morning,Partner,High
+LEAD-0030,2023-09,41.47,14,49.96,34.52,901000,81.54,55.74,Manufacturing,Medium,High,Morning,Referral,High
+LEAD-0031,2024-06,61.75,4,71.56,51.88,545000,83.01,56.49,Retail,Medium,High,Evening,LinkedIn,High
+LEAD-0032,2023-04,29.0,5,46.46,26.71,751000,52.93,29.79,Retail,High,Medium,Afternoon,Website,Medium
+LEAD-0033,2025-01,45.54,14,60.61,24.07,902000,90.06,45.02,Real Estate,Medium,Medium,Evening,Cold Call,Low
+LEAD-0034,2024-02,35.62,12,54.07,24.34,172000,60.5,44.84,Finance,Medium,Medium,Afternoon,Referral,Low
+LEAD-0035,2023-09,24.77,1,39.72,27.32,1199000,70.2,49.93,Logistics,Medium,Medium,Late Morning,WhatsApp,High
+LEAD-0036,2025-02,30.77,1,60.01,30.16,408000,69.69,39.45,Professional Services,Medium,Medium,Morning,LinkedIn,Low
+LEAD-0037,2023-02,29.08,10,38.66,15.84,358000,62.58,39.62,Hospitality,Low,High,Evening,LinkedIn,Low
+LEAD-0038,2024-08,39.04,3,46.6,34.76,240000,79.59,56.62,Retail,Medium,High,Morning,Cold Call,Medium
+LEAD-0039,2025-04,57.19,10,43.4,35.12,221000,79.28,51.32,Hospitality,Critical,High,Afternoon,Email Campaign,Medium
+LEAD-0040,2023-07,18.01,3,45.85,35.78,308000,33.53,25.55,Manufacturing,Medium,High,Morning,Website,Medium
+LEAD-0041,2023-08,36.28,12,56.5,27.98,499000,88.48,53.42,Hospitality,High,Low,Morning,LinkedIn,Medium
+LEAD-0042,2025-11,24.67,8,51.09,22.37,3678000,35.08,13.22,Professional Services,Medium,Medium,Evening,Cold Call,High
+LEAD-0043,2024-02,32.95,9,56.75,19.37,573000,83.59,45.1,Education,High,Low,Late Morning,Cold Call,Low
+LEAD-0044,2024-05,11.02,14,49.54,9.57,971000,85.28,39.4,Professional Services,Low,Medium,Morning,Referral,Medium
+LEAD-0045,2025-12,49.07,11,28.4,39.38,1148000,45.36,30.3,Hospitality,Critical,High,Late Morning,WhatsApp,Peak
+LEAD-0046,2023-04,35.32,12,60.81,52.79,938000,57.61,27.13,Professional Services,Medium,Enterprise,Afternoon,Email Campaign,Medium
+LEAD-0047,2023-02,22.52,1,39.9,5.0,802000,45.1,11.77,Healthcare,Medium,Low,Morning,Website,Low
+LEAD-0048,2023-06,19.17,14,46.09,17.33,347000,61.13,28.72,Manufacturing,Low,Medium,Evening,Partner,High
+LEAD-0049,2023-04,18.85,11,51.24,10.99,2524000,59.46,39.55,Logistics,Low,High,Afternoon,Google Ads,Medium
+LEAD-0050,2025-05,26.57,2,63.58,26.43,3297000,79.03,47.67,Education,Medium,Medium,Afternoon,WhatsApp,Medium
+LEAD-0051,2024-06,40.91,10,73.78,35.2,241000,88.59,61.58,Retail,Medium,Medium,Evening,WhatsApp,High
+LEAD-0052,2025-02,48.71,2,81.2,49.61,394000,90.12,70.35,IT Services,High,High,Morning,Referral,Low
+LEAD-0053,2025-10,24.71,4,44.05,14.59,689000,54.88,33.09,Logistics,Medium,Medium,Morning,Partner,High
+LEAD-0054,2023-10,20.7,2,40.34,5.0,412000,61.23,30.71,IT Services,Medium,Low,Afternoon,LinkedIn,High
+LEAD-0055,2025-12,12.21,7,32.76,25.77,1242000,34.7,14.9,Manufacturing,High,Medium,Morning,LinkedIn,Peak
+LEAD-0056,2024-02,30.42,13,45.71,37.63,492000,50.49,55.76,Education,High,High,Late Morning,Referral,Low
+LEAD-0057,2025-07,42.65,9,51.03,5.0,4311000,82.37,24.64,Real Estate,Low,Medium,Evening,Cold Call,Medium
+LEAD-0058,2024-03,45.81,7,58.13,5.0,2076000,94.08,45.27,Retail,Low,Low,Late Morning,LinkedIn,High
+LEAD-0059,2023-08,26.47,12,43.12,17.45,997000,42.78,33.69,Healthcare,Low,High,Morning,Email Campaign,Medium
+LEAD-0060,2024-02,34.33,6,43.85,22.25,1836000,54.34,40.71,Real Estate,High,Low,Afternoon,Website,Low
+LEAD-0061,2024-11,49.55,10,53.18,23.3,1948000,64.52,25.64,Manufacturing,High,High,Evening,WhatsApp,High
+LEAD-0062,2024-09,38.05,1,48.8,19.92,557000,70.04,34.29,Logistics,Medium,Medium,Morning,WhatsApp,High
+LEAD-0063,2024-04,40.6,11,42.16,39.55,461000,50.43,28.55,Healthcare,High,Enterprise,Morning,Email Campaign,Medium
+LEAD-0064,2024-06,31.6,10,49.63,41.54,901000,72.63,27.42,Professional Services,High,Medium,Afternoon,Partner,High
+LEAD-0065,2024-12,21.01,9,52.57,22.54,1622000,56.47,34.6,Hospitality,Medium,Medium,Afternoon,LinkedIn,Peak
+LEAD-0066,2025-02,35.97,5,61.42,30.16,943000,64.74,32.51,Healthcare,High,Low,Late Morning,WhatsApp,Low
+LEAD-0067,2025-01,29.24,11,41.94,21.12,260000,74.83,56.12,Manufacturing,Medium,Medium,Evening,Google Ads,Low
+LEAD-0068,2025-05,18.69,5,46.95,8.62,466000,65.12,38.47,Finance,Low,High,Evening,Partner,Medium
+LEAD-0069,2024-03,28.91,6,31.46,35.48,804000,57.15,38.55,Hospitality,Medium,Enterprise,Afternoon,Website,High
+LEAD-0070,2023-01,17.99,9,47.41,16.27,803000,63.03,29.33,IT Services,Low,Medium,Late Morning,Website,Low
+LEAD-0071,2025-01,28.07,13,49.12,27.14,3732000,63.41,39.18,Retail,Medium,Medium,Evening,WhatsApp,Low
+LEAD-0072,2023-07,53.53,8,37.64,67.55,301000,58.34,47.34,IT Services,Critical,High,Afternoon,Referral,Medium
+LEAD-0073,2023-09,38.32,8,41.39,6.28,1242000,60.34,30.05,Healthcare,Low,High,Morning,Partner,High
+LEAD-0074,2024-12,54.24,14,61.14,33.42,2597000,93.78,72.91,IT Services,Low,Medium,Evening,WhatsApp,Peak
+LEAD-0075,2023-01,43.55,8,60.57,27.06,4670000,75.1,32.62,Manufacturing,Medium,Medium,Late Morning,Referral,Low
+LEAD-0076,2023-08,25.77,1,51.45,39.71,628000,59.68,39.07,Professional Services,Critical,Medium,Late Morning,WhatsApp,Medium
+LEAD-0077,2024-12,43.5,1,53.25,34.24,1229000,77.55,53.94,Logistics,Medium,High,Late Morning,Google Ads,Peak
+LEAD-0078,2023-11,24.87,8,49.04,10.57,1303000,58.99,26.24,Retail,Medium,Low,Morning,Partner,High
+LEAD-0079,2024-05,40.26,5,61.04,17.31,984000,86.12,60.62,IT Services,Low,Medium,Evening,Cold Call,Medium
+LEAD-0080,2023-08,31.63,9,55.56,20.98,789000,71.65,46.37,IT Services,Low,Medium,Evening,Website,Medium
+LEAD-0081,2025-11,54.8,2,66.25,43.18,1179000,63.07,36.3,Healthcare,Critical,High,Morning,WhatsApp,High
+LEAD-0082,2025-11,44.69,9,69.35,41.54,127000,73.06,49.46,Logistics,Critical,Low,Evening,Google Ads,High
+LEAD-0083,2025-09,16.31,12,22.9,5.0,1418000,36.72,11.23,Real Estate,Low,Medium,Morning,Referral,High
+LEAD-0084,2023-05,13.19,14,50.66,29.41,934000,44.72,22.45,IT Services,Critical,Medium,Morning,Referral,Medium
+LEAD-0085,2025-04,31.11,8,48.63,37.19,719000,43.51,31.19,Manufacturing,High,High,Morning,Website,Medium
+LEAD-0086,2023-07,45.91,9,46.33,29.04,3946000,67.57,53.21,Finance,High,Low,Late Morning,Email Campaign,Medium
+LEAD-0087,2023-09,52.68,4,75.27,32.38,512000,96.19,62.07,Retail,Medium,Medium,Evening,WhatsApp,High
+LEAD-0088,2023-08,37.77,1,87.44,44.48,628000,100.0,60.34,IT Services,Medium,Medium,Morning,Partner,Medium
+LEAD-0089,2023-12,31.53,1,49.36,18.58,3785000,76.48,48.73,Manufacturing,Medium,Medium,Evening,LinkedIn,Peak
+LEAD-0090,2025-10,56.52,5,49.85,37.23,455000,74.02,49.02,Manufacturing,High,Medium,Late Morning,Referral,High
+LEAD-0091,2025-09,21.9,2,42.08,26.0,563000,32.58,12.06,Retail,Low,High,Morning,Partner,High
+LEAD-0092,2024-11,38.38,14,47.22,36.61,761000,55.23,36.22,Real Estate,Low,High,Afternoon,Partner,High
+LEAD-0093,2024-12,41.05,8,50.31,22.92,1597000,50.82,30.16,Manufacturing,Medium,Medium,Late Morning,Cold Call,Peak
+LEAD-0094,2025-11,38.63,10,52.17,46.72,993000,53.82,48.19,Finance,High,High,Afternoon,Partner,High
+LEAD-0095,2024-10,40.21,11,55.0,27.09,322000,61.97,31.7,Manufacturing,Medium,Medium,Evening,Partner,High
+LEAD-0096,2025-03,34.14,5,36.54,24.61,570000,56.5,24.91,Manufacturing,High,Low,Evening,Cold Call,High
+LEAD-0097,2025-11,23.65,5,42.98,18.6,539000,29.37,19.27,Manufacturing,Critical,Low,Late Morning,Referral,High
+LEAD-0098,2023-01,44.73,2,71.68,31.62,802000,78.46,39.92,Professional Services,Low,Medium,Evening,Partner,Low
+LEAD-0099,2025-11,27.52,7,41.07,35.35,1170000,45.69,29.7,Professional Services,High,High,Afternoon,Email Campaign,High
+LEAD-0100,2024-02,35.78,13,52.13,33.57,1163000,69.31,42.13,Real Estate,Medium,High,Morning,Email Campaign,Low
+LEAD-0101,2023-03,49.02,8,59.82,46.36,224000,100.0,57.39,IT Services,High,High,Morning,Google Ads,High
+LEAD-0102,2023-01,11.55,10,48.68,17.13,1888000,48.45,37.43,Manufacturing,Low,Medium,Morning,Cold Call,Low
+LEAD-0103,2023-05,27.12,13,32.95,23.0,1027000,19.45,30.95,Logistics,High,Medium,Late Morning,Google Ads,Medium
+LEAD-0104,2025-02,31.81,1,50.96,23.96,2401000,59.85,43.95,IT Services,High,Low,Evening,Cold Call,Low
+LEAD-0105,2024-02,65.43,2,71.17,58.21,1186000,84.82,40.83,Real Estate,Critical,Medium,Afternoon,WhatsApp,Low
+LEAD-0106,2025-03,68.83,10,67.59,47.34,1942000,100.0,55.15,Education,High,Medium,Evening,WhatsApp,High
+LEAD-0107,2023-09,23.88,4,47.26,18.77,1206000,42.87,24.07,IT Services,Medium,Low,Evening,Partner,High
+LEAD-0108,2024-03,28.36,5,50.09,28.85,2333000,73.94,24.91,IT Services,High,Medium,Evening,LinkedIn,High
+LEAD-0109,2024-03,28.65,13,44.43,23.1,1258000,56.62,24.81,Hospitality,High,Medium,Morning,WhatsApp,High
+LEAD-0110,2025-02,34.49,2,49.63,39.51,790000,63.09,40.31,Healthcare,Medium,High,Afternoon,LinkedIn,Low
+LEAD-0111,2024-01,40.3,1,70.53,46.99,4673000,100.0,56.96,Hospitality,Low,Enterprise,Afternoon,WhatsApp,Low
+LEAD-0112,2025-08,34.51,9,37.04,56.09,1656000,37.95,36.79,Finance,Critical,Enterprise,Evening,Website,Medium
+LEAD-0113,2025-08,41.42,14,55.08,39.21,1307000,69.57,31.22,Professional Services,High,High,Morning,WhatsApp,Medium
+LEAD-0114,2023-04,37.64,1,65.81,37.98,326000,73.42,41.73,Professional Services,High,Medium,Morning,Google Ads,Medium
+LEAD-0115,2025-06,35.06,13,59.07,25.88,323000,84.54,48.62,Healthcare,Medium,High,Afternoon,Referral,High
+LEAD-0116,2024-11,27.61,4,37.26,32.14,1059000,66.76,41.39,Retail,High,High,Morning,Partner,High
+LEAD-0117,2024-03,39.92,2,69.55,30.36,948000,70.54,46.84,Retail,Medium,Low,Morning,Google Ads,High
+LEAD-0118,2025-05,50.05,11,58.71,32.91,536000,57.95,41.48,Real Estate,High,Medium,Morning,Referral,Medium
+LEAD-0119,2025-12,46.49,4,43.28,26.26,945000,69.84,36.55,Healthcare,Low,High,Late Morning,Email Campaign,Peak
+LEAD-0120,2024-01,41.16,8,57.16,34.1,2798000,58.82,39.61,IT Services,High,Medium,Evening,Google Ads,Low
+LEAD-0121,2025-08,50.25,8,52.38,40.41,1432000,76.19,40.43,Retail,Critical,Medium,Afternoon,Email Campaign,Medium
+LEAD-0122,2023-07,23.35,11,51.86,8.86,361000,58.35,26.65,Manufacturing,Low,Medium,Afternoon,LinkedIn,Medium
+LEAD-0123,2024-10,25.1,12,59.23,32.03,782000,71.79,32.96,Logistics,Critical,Low,Late Morning,LinkedIn,High
+LEAD-0124,2025-04,21.86,9,51.95,5.0,465000,64.47,41.42,IT Services,Medium,Medium,Evening,Website,Medium
+LEAD-0125,2023-02,37.92,13,59.34,35.18,636000,85.27,47.95,Finance,High,Medium,Afternoon,WhatsApp,Low
+LEAD-0126,2023-06,27.66,11,46.43,8.87,623000,64.07,42.58,Manufacturing,High,Low,Morning,Google Ads,High
+LEAD-0127,2025-04,26.65,12,27.35,11.57,594000,33.09,22.05,Manufacturing,Medium,Low,Afternoon,Email Campaign,Medium
+LEAD-0128,2025-04,68.95,5,57.26,49.93,332000,87.71,48.09,Healthcare,High,High,Morning,Referral,Medium
+LEAD-0129,2024-08,31.4,7,40.58,30.74,772000,48.7,35.19,Real Estate,High,Medium,Late Morning,LinkedIn,Medium
+LEAD-0130,2025-06,19.23,3,42.34,30.97,558000,53.23,42.89,Finance,Medium,Medium,Morning,WhatsApp,High
+LEAD-0131,2023-11,27.52,10,50.99,17.83,94000,54.28,29.89,Retail,Medium,Medium,Afternoon,LinkedIn,High
+LEAD-0132,2025-04,65.1,4,79.24,73.27,3964000,89.74,66.77,Healthcare,High,Enterprise,Afternoon,Referral,Medium
+LEAD-0133,2025-01,26.53,10,24.39,26.23,1923000,26.56,15.62,Retail,High,Medium,Afternoon,WhatsApp,Low
+LEAD-0134,2025-09,53.61,9,73.65,41.7,641000,100.0,59.84,Healthcare,High,Medium,Late Morning,WhatsApp,High
+LEAD-0135,2023-01,55.68,10,67.2,57.21,862000,84.01,60.21,Healthcare,High,High,Late Morning,Email Campaign,Low
+LEAD-0136,2025-03,32.35,10,58.71,29.44,353000,69.02,35.57,Healthcare,Medium,High,Evening,Email Campaign,High
+LEAD-0137,2024-01,27.27,14,50.29,16.37,3032000,64.01,23.74,Real Estate,High,Low,Afternoon,Google Ads,Low
+LEAD-0138,2023-03,40.53,12,61.76,26.39,3527000,70.14,53.68,Healthcare,Low,High,Morning,Google Ads,High
+LEAD-0139,2023-06,21.44,1,60.85,25.5,956000,74.38,48.44,Education,Medium,Medium,Late Morning,Cold Call,High
+LEAD-0140,2023-08,27.74,2,48.1,7.69,1831000,76.61,31.69,Logistics,Low,Medium,Afternoon,Partner,Medium
+LEAD-0141,2025-03,44.95,5,64.07,29.32,969000,75.0,46.21,Retail,Medium,Low,Afternoon,Cold Call,High
+LEAD-0142,2023-09,44.78,3,63.22,18.53,312000,66.61,21.68,IT Services,Medium,Low,Late Morning,Website,High
+LEAD-0143,2025-09,32.21,2,40.43,30.87,624000,61.45,18.69,Hospitality,Medium,High,Evening,LinkedIn,High
+LEAD-0144,2024-12,44.77,1,54.09,29.97,938000,62.28,49.36,Finance,High,Medium,Late Morning,Google Ads,Peak
+LEAD-0145,2024-03,41.83,10,57.97,15.08,604000,61.49,35.25,Professional Services,Medium,Medium,Late Morning,Email Campaign,High
+LEAD-0146,2025-08,44.56,3,59.49,39.45,721000,85.41,51.76,Real Estate,Medium,High,Morning,Referral,Medium
+LEAD-0147,2025-08,35.14,1,69.88,29.16,794000,75.68,46.59,IT Services,Medium,High,Morning,Email Campaign,Medium
+LEAD-0148,2024-12,10.0,12,46.92,12.04,800000,15.0,43.23,Manufacturing,Medium,Low,Evening,LinkedIn,Peak
+LEAD-0149,2023-12,32.88,1,50.77,14.79,884000,76.81,48.43,Education,Medium,Medium,Afternoon,Cold Call,Peak
+LEAD-0150,2023-02,40.21,12,43.25,16.67,384000,68.51,26.21,Professional Services,Low,Low,Late Morning,Email Campaign,Low
+LEAD-0151,2023-03,38.15,1,51.8,48.24,496000,64.66,29.18,Hospitality,High,High,Evening,Partner,High
+LEAD-0152,2024-05,52.9,8,57.0,45.1,324000,58.01,52.43,IT Services,High,High,Morning,Website,Medium
+LEAD-0153,2023-02,51.32,3,62.8,61.99,1770000,85.23,68.61,Professional Services,High,Enterprise,Late Morning,LinkedIn,Low
+LEAD-0154,2023-02,28.03,11,76.81,20.94,175000,82.06,50.01,IT Services,Medium,Low,Afternoon,Cold Call,Low
+LEAD-0155,2025-04,26.12,1,31.65,9.0,2019000,51.09,18.01,Education,Medium,Low,Morning,Partner,Medium
+LEAD-0156,2024-11,52.24,7,59.52,37.97,2404000,72.33,49.47,Hospitality,High,Medium,Morning,Referral,High
+LEAD-0157,2025-08,27.11,10,38.08,20.13,678000,47.51,21.19,Manufacturing,Medium,Medium,Morning,Cold Call,Medium
+LEAD-0158,2025-09,33.23,3,54.07,34.86,121000,40.17,36.9,Healthcare,Medium,Medium,Evening,WhatsApp,High
+LEAD-0159,2023-01,50.69,8,62.48,36.12,648000,53.72,46.64,Retail,Low,High,Afternoon,Partner,Low
+LEAD-0160,2024-07,50.88,4,54.79,28.32,810000,80.52,40.71,Manufacturing,Medium,Medium,Late Morning,Partner,Medium
+LEAD-0161,2023-02,36.05,4,56.74,15.65,398000,82.16,53.77,Healthcare,Medium,Medium,Evening,Website,Low
+LEAD-0162,2025-02,37.16,5,62.97,32.5,578000,74.24,45.93,Real Estate,Medium,High,Evening,LinkedIn,Low
+LEAD-0163,2025-08,47.91,6,56.54,26.28,2678000,78.05,49.24,Logistics,Medium,Medium,Evening,Referral,Medium
+LEAD-0164,2023-06,49.93,7,59.95,38.43,1400000,74.29,33.79,Finance,Medium,High,Morning,Website,High
+LEAD-0165,2025-08,28.21,14,49.13,13.67,425000,53.45,31.16,Finance,High,Low,Afternoon,Cold Call,Medium
+LEAD-0166,2023-04,42.21,14,37.75,43.0,256000,72.77,41.04,Retail,High,Medium,Evening,Website,Medium
+LEAD-0167,2023-11,43.38,4,57.05,36.0,665000,79.41,53.08,Hospitality,High,Low,Late Morning,Partner,High
+LEAD-0168,2024-05,38.68,8,52.61,27.47,724000,78.58,59.65,Education,High,Low,Afternoon,LinkedIn,Medium
+LEAD-0169,2024-12,50.11,13,56.58,49.66,1233000,86.4,59.16,Hospitality,Critical,High,Late Morning,Google Ads,Peak
+LEAD-0170,2023-05,29.05,6,71.35,14.76,569000,77.75,31.15,Education,Low,Low,Afternoon,Website,Medium
+LEAD-0171,2025-10,33.03,14,41.42,13.22,1247000,71.33,42.99,Hospitality,Medium,Medium,Late Morning,WhatsApp,High
+LEAD-0172,2023-06,36.25,1,70.76,26.51,3629000,84.26,51.21,Logistics,Low,Medium,Morning,Website,High
+LEAD-0173,2024-10,38.65,1,47.38,32.55,1567000,64.52,61.01,Real Estate,High,Medium,Evening,Cold Call,High
+LEAD-0174,2023-11,12.54,9,38.9,26.98,820000,49.13,34.09,Real Estate,High,High,Late Morning,Cold Call,High
+LEAD-0175,2024-04,25.95,10,57.75,20.06,741000,62.06,29.09,Healthcare,Medium,Low,Afternoon,Referral,Medium
+LEAD-0176,2025-09,46.93,6,49.44,44.64,650000,51.59,46.55,Professional Services,Critical,High,Evening,Cold Call,High
+LEAD-0177,2023-09,18.93,10,48.6,16.97,2061000,52.85,28.45,Real Estate,Low,Enterprise,Evening,Email Campaign,High
+LEAD-0178,2023-06,42.12,8,57.43,34.55,531000,62.4,40.97,Real Estate,Critical,Medium,Afternoon,LinkedIn,High
+LEAD-0179,2024-04,25.81,13,42.32,32.42,879000,50.74,24.89,Manufacturing,Medium,Enterprise,Late Morning,LinkedIn,Medium
+LEAD-0180,2025-05,34.49,7,44.59,16.62,883000,59.46,31.35,Manufacturing,Low,Low,Morning,Google Ads,Medium
+LEAD-0181,2023-03,15.32,12,23.74,15.29,583000,30.91,19.57,Healthcare,Medium,Medium,Morning,Google Ads,High
+LEAD-0182,2024-08,27.66,6,48.43,13.9,304000,68.84,34.56,Professional Services,Medium,Medium,Late Morning,LinkedIn,Medium
+LEAD-0183,2025-12,45.47,4,77.3,49.51,1083000,65.02,40.68,Retail,Medium,High,Evening,WhatsApp,Peak
+LEAD-0184,2024-07,20.88,7,56.26,31.18,812000,50.29,36.43,Manufacturing,Medium,Enterprise,Evening,Google Ads,Medium
+LEAD-0185,2025-02,51.44,9,45.12,37.23,1237000,76.87,38.39,Retail,High,Medium,Evening,Referral,Low
+LEAD-0186,2023-03,52.82,14,51.73,30.53,570000,81.88,35.94,IT Services,Medium,High,Evening,Cold Call,High
+LEAD-0187,2024-07,13.93,11,41.57,9.3,2124000,36.06,26.58,Manufacturing,Medium,Low,Late Morning,LinkedIn,Medium
+LEAD-0188,2024-08,40.76,10,50.22,41.39,440000,51.27,43.74,Logistics,High,Medium,Evening,Partner,Medium
+LEAD-0189,2025-08,34.71,10,51.08,23.51,3069000,51.16,18.17,Professional Services,High,Medium,Afternoon,Google Ads,Medium
+LEAD-0190,2023-07,27.23,14,40.65,24.73,229000,48.08,12.0,Healthcare,Medium,Enterprise,Evening,LinkedIn,Medium
+LEAD-0191,2025-09,30.54,7,61.43,25.4,1178000,79.93,34.77,IT Services,Medium,Medium,Morning,Email Campaign,High
+LEAD-0192,2024-06,45.79,1,54.78,25.56,1214000,61.51,35.34,Professional Services,Low,Medium,Evening,Website,High
+LEAD-0193,2023-01,20.19,10,51.0,5.0,468000,60.24,40.4,Logistics,Medium,Low,Late Morning,Cold Call,Low
+LEAD-0194,2023-11,10.0,9,13.94,5.0,1169000,28.93,13.24,Professional Services,High,Low,Morning,LinkedIn,High
+LEAD-0195,2025-04,50.77,13,57.07,24.24,2219000,76.44,35.19,Logistics,Medium,Medium,Late Morning,Website,Medium
+LEAD-0196,2025-01,28.67,4,32.92,19.66,161000,42.69,27.58,Logistics,Medium,Medium,Late Morning,Google Ads,Low
+LEAD-0197,2024-11,48.05,3,52.92,50.8,1239000,66.08,46.38,Retail,High,High,Morning,Website,High
+LEAD-0198,2025-07,28.71,4,78.86,26.61,131000,69.99,27.0,Hospitality,Low,Medium,Late Morning,Cold Call,Medium
+LEAD-0199,2025-06,51.81,4,71.13,31.26,412000,89.49,37.46,IT Services,Medium,Medium,Late Morning,LinkedIn,High
+LEAD-0200,2025-11,45.01,13,37.97,16.3,2885000,41.44,10.87,Professional Services,Medium,Low,Evening,Email Campaign,High
+LEAD-0201,2023-07,23.25,10,32.15,24.34,549000,15.0,40.07,Education,Critical,High,Afternoon,WhatsApp,Medium
+LEAD-0202,2024-04,43.77,11,60.51,35.33,352000,68.31,51.7,IT Services,Medium,High,Late Morning,Google Ads,Medium
+LEAD-0203,2025-02,54.87,2,70.86,33.34,733000,97.41,49.57,Hospitality,High,Low,Late Morning,LinkedIn,Low
+LEAD-0204,2023-02,48.96,14,72.08,46.74,4008000,87.3,66.73,IT Services,Medium,High,Late Morning,Cold Call,Low
+LEAD-0205,2023-01,31.44,12,70.73,22.38,215000,68.77,33.1,Real Estate,Low,Medium,Evening,Google Ads,Low
+LEAD-0206,2023-12,23.9,14,36.3,15.67,386000,56.15,41.5,Education,High,Low,Afternoon,Referral,Peak
+LEAD-0207,2023-05,34.53,1,61.5,25.1,2613000,79.53,45.38,Hospitality,Critical,Medium,Morning,Website,Medium
+LEAD-0208,2025-08,22.4,12,32.77,19.12,3424000,47.48,21.47,Retail,High,Medium,Evening,WhatsApp,Medium
+LEAD-0209,2023-09,37.13,10,63.47,31.64,787000,73.57,50.98,Professional Services,High,Low,Evening,Cold Call,High
+LEAD-0210,2025-11,42.46,12,51.99,41.08,336000,74.1,49.1,Finance,High,Enterprise,Afternoon,Referral,High
+LEAD-0211,2024-07,43.58,1,55.99,36.29,4093000,84.08,54.52,Hospitality,Medium,High,Afternoon,Partner,Medium
+LEAD-0212,2024-04,57.27,13,68.84,45.17,2810000,100.0,62.97,Healthcare,Medium,High,Evening,LinkedIn,Medium
+LEAD-0213,2023-03,42.72,14,66.42,37.48,1414000,72.06,47.6,Professional Services,High,Medium,Morning,Email Campaign,High
+LEAD-0214,2024-08,32.75,8,52.48,26.38,462000,55.84,42.37,Hospitality,Medium,Medium,Evening,Google Ads,Medium
+LEAD-0215,2024-12,47.74,14,38.69,28.83,819000,64.54,64.97,Real Estate,High,High,Afternoon,Website,Peak
+LEAD-0216,2025-09,25.68,2,38.23,29.9,754000,33.16,37.87,Finance,Critical,Medium,Morning,Google Ads,High
+LEAD-0217,2024-12,41.45,12,36.89,11.98,1089000,52.5,30.01,Real Estate,Medium,Low,Afternoon,WhatsApp,Peak
+LEAD-0218,2023-11,32.1,10,39.87,20.24,2524000,57.63,29.91,Finance,Medium,Medium,Morning,LinkedIn,High
+LEAD-0219,2023-08,31.42,5,45.11,34.55,1644000,55.57,35.09,Healthcare,High,High,Late Morning,Google Ads,Medium
+LEAD-0220,2025-12,46.55,12,52.48,26.76,379000,67.74,27.29,Professional Services,Medium,Medium,Afternoon,Website,Peak
+LEAD-0221,2024-08,32.2,4,64.45,33.94,2387000,50.2,41.11,Retail,High,Low,Afternoon,LinkedIn,Medium
+LEAD-0222,2025-11,22.33,8,65.14,25.92,1075000,85.18,37.25,Real Estate,Medium,High,Evening,Google Ads,High
+LEAD-0223,2025-01,38.13,2,37.75,34.24,1423000,65.0,37.51,Real Estate,High,Medium,Afternoon,Email Campaign,Low
+LEAD-0224,2025-11,26.34,10,47.67,12.53,2553000,64.83,40.26,Logistics,Low,Medium,Afternoon,Cold Call,High
+LEAD-0225,2025-01,47.2,9,61.2,30.35,369000,59.1,34.84,Finance,High,Low,Late Morning,LinkedIn,Low
+LEAD-0226,2025-05,36.19,7,73.48,43.65,827000,67.79,40.86,Manufacturing,Medium,Medium,Afternoon,Cold Call,Medium
+LEAD-0227,2024-06,35.31,13,47.64,22.27,571000,79.85,31.75,Professional Services,Medium,High,Late Morning,Partner,High
+LEAD-0228,2024-06,29.68,7,29.75,5.0,262000,49.39,36.03,Finance,Low,Medium,Late Morning,LinkedIn,High
+LEAD-0229,2023-02,38.1,1,63.17,36.3,1102000,53.15,28.29,Logistics,High,Medium,Late Morning,Email Campaign,Low
+LEAD-0230,2025-11,36.49,14,54.85,37.84,5591000,59.53,34.18,IT Services,High,High,Late Morning,Cold Call,High
+LEAD-0231,2024-04,25.1,12,34.11,37.52,214000,40.77,13.56,Finance,Medium,High,Morning,Referral,Medium
+LEAD-0232,2025-12,28.4,2,47.45,17.78,830000,50.25,28.64,Retail,Low,High,Evening,Website,Peak
+LEAD-0233,2025-09,21.77,4,25.31,5.0,1374000,56.43,23.81,Professional Services,Low,Medium,Morning,Referral,High
+LEAD-0234,2023-04,39.65,4,61.54,38.97,932000,80.74,51.79,Logistics,High,Medium,Afternoon,Google Ads,Medium
+LEAD-0235,2025-09,38.18,11,59.9,43.34,781000,69.73,34.8,IT Services,High,Enterprise,Morning,Email Campaign,High
+LEAD-0236,2024-02,33.56,14,61.58,35.79,321000,68.48,50.69,Education,Medium,High,Morning,Referral,Low
+LEAD-0237,2024-09,27.93,3,52.15,17.25,1012000,80.32,23.79,Logistics,Medium,Low,Afternoon,LinkedIn,High
+LEAD-0238,2024-08,34.77,7,50.76,12.04,482000,62.53,31.43,Education,Medium,Low,Afternoon,Google Ads,Medium
+LEAD-0239,2023-08,41.96,12,49.29,23.0,164000,72.03,41.62,Professional Services,Medium,Medium,Afternoon,Google Ads,Medium
+LEAD-0240,2023-07,43.08,8,51.43,29.98,2082000,63.14,39.48,Real Estate,Medium,High,Morning,Referral,Medium
+LEAD-0241,2023-03,35.78,2,47.42,25.16,1744000,69.78,41.78,Logistics,Critical,Medium,Morning,Partner,High
+LEAD-0242,2024-05,23.8,4,42.81,14.8,884000,54.51,37.6,Healthcare,Low,Medium,Afternoon,Referral,Medium
+LEAD-0243,2025-09,14.16,14,18.24,19.04,1009000,21.1,29.41,Education,High,Low,Evening,Partner,High
+LEAD-0244,2023-12,46.12,3,55.28,35.66,1903000,62.58,39.09,Retail,Medium,High,Evening,Email Campaign,Peak
+LEAD-0245,2024-10,37.91,2,74.06,46.13,1006000,90.61,47.24,Healthcare,Medium,High,Late Morning,Website,High
+LEAD-0246,2024-10,42.41,12,56.31,39.88,1674000,81.67,56.32,Hospitality,High,Medium,Afternoon,Referral,High
+LEAD-0247,2025-06,38.16,13,59.15,36.51,680000,82.38,47.04,Hospitality,High,High,Late Morning,WhatsApp,High
+LEAD-0248,2023-08,70.95,14,53.55,65.62,2274000,87.25,74.88,IT Services,Critical,Enterprise,Evening,Partner,Medium
+LEAD-0249,2025-03,26.97,6,48.33,16.61,1081000,66.6,29.76,Real Estate,Low,Medium,Late Morning,Referral,High
+LEAD-0250,2025-03,24.38,13,55.25,29.94,983000,68.55,32.75,Professional Services,Low,Medium,Afternoon,Cold Call,High
+LEAD-0251,2025-10,37.13,4,70.32,36.62,328000,53.88,38.5,Logistics,High,Medium,Afternoon,LinkedIn,High
+LEAD-0252,2024-09,36.22,6,40.01,40.93,1054000,59.31,23.61,Manufacturing,Medium,High,Afternoon,WhatsApp,High
+LEAD-0253,2025-06,39.74,2,70.02,39.04,455000,76.08,43.23,Retail,Medium,Medium,Morning,WhatsApp,High
+LEAD-0254,2025-09,42.85,12,72.24,39.55,527000,86.67,49.54,Education,Low,High,Late Morning,Partner,High
+LEAD-0255,2025-04,29.32,4,54.9,28.99,461000,62.49,40.47,Professional Services,Low,High,Evening,Cold Call,Medium
+LEAD-0256,2025-09,42.14,11,63.62,36.8,382000,56.9,28.52,Healthcare,High,Medium,Evening,Cold Call,High
+LEAD-0257,2023-05,43.74,6,52.6,42.65,4183000,65.01,35.39,Hospitality,Medium,High,Evening,Google Ads,Medium
+LEAD-0258,2024-07,38.4,14,60.2,29.88,2307000,75.82,56.15,Retail,Medium,Medium,Morning,Partner,Medium
+LEAD-0259,2023-04,10.0,5,38.38,5.0,3589000,39.01,19.17,Manufacturing,Medium,Low,Morning,Website,Medium
+LEAD-0260,2025-11,16.35,3,41.13,20.92,340000,23.67,26.62,Logistics,Medium,High,Afternoon,LinkedIn,High
+LEAD-0261,2024-05,33.93,8,58.77,27.91,897000,55.09,29.14,IT Services,Low,High,Evening,Email Campaign,Medium
+LEAD-0262,2025-04,26.08,7,35.43,19.18,322000,43.03,25.53,Manufacturing,Medium,Medium,Morning,WhatsApp,Medium
+LEAD-0263,2025-06,28.42,3,33.85,16.85,504000,55.85,33.18,Retail,Low,High,Afternoon,Email Campaign,High
+LEAD-0264,2025-05,36.7,6,49.86,49.47,427000,62.34,62.84,Manufacturing,High,High,Evening,Referral,Medium
+LEAD-0265,2023-06,10.0,4,39.06,5.09,2154000,56.84,25.18,Retail,Medium,Medium,Late Morning,Referral,High
+LEAD-0266,2025-11,67.44,11,64.56,46.99,631000,91.14,55.8,Retail,Medium,Enterprise,Afternoon,Email Campaign,High
+LEAD-0267,2024-12,22.74,5,69.62,18.69,1894000,70.88,49.42,Finance,High,Low,Morning,Referral,Peak
+LEAD-0268,2025-05,25.76,11,50.21,37.42,1337000,70.41,40.98,Education,High,Medium,Morning,Website,Medium
+LEAD-0269,2025-07,34.8,5,55.02,15.75,4784000,76.2,42.65,Hospitality,Medium,Low,Afternoon,Cold Call,Medium
+LEAD-0270,2025-11,16.89,7,44.5,33.3,280000,44.5,41.79,Finance,Medium,High,Afternoon,Referral,High
+LEAD-0271,2025-09,39.47,11,70.77,36.92,2186000,83.7,44.83,Logistics,Medium,High,Morning,Google Ads,High
+LEAD-0272,2024-09,37.2,5,34.28,23.41,2008000,63.64,40.23,Finance,High,Low,Late Morning,Referral,High
+LEAD-0273,2025-08,61.37,11,51.33,44.93,410000,77.07,67.86,Real Estate,Critical,Medium,Evening,LinkedIn,Medium
+LEAD-0274,2024-11,33.49,3,41.44,31.98,1809000,45.71,40.97,Real Estate,High,Medium,Late Morning,Website,High
+LEAD-0275,2025-09,14.19,10,44.67,10.53,1094000,37.03,23.2,Hospitality,Medium,Low,Afternoon,LinkedIn,High
+LEAD-0276,2023-03,49.24,5,56.82,48.33,717000,79.72,50.55,Manufacturing,High,High,Late Morning,LinkedIn,High
+LEAD-0277,2024-06,20.72,7,38.19,22.38,458000,71.78,34.09,Education,Medium,High,Morning,Google Ads,High
+LEAD-0278,2025-01,22.47,5,45.9,20.02,496000,48.76,19.07,Hospitality,Low,Medium,Afternoon,Website,Low
+LEAD-0279,2025-07,33.49,5,36.42,44.03,3954000,49.35,52.71,Retail,Medium,Enterprise,Evening,Website,Medium
+LEAD-0280,2023-03,51.67,9,52.68,45.78,850000,85.26,67.54,Healthcare,Critical,Medium,Morning,Partner,High
+LEAD-0281,2024-12,38.98,3,33.96,18.19,1528000,43.59,19.41,Education,Low,Enterprise,Morning,Website,Peak
+LEAD-0282,2025-08,40.64,13,65.95,51.19,470000,94.57,63.85,Education,High,High,Evening,Website,Medium
+LEAD-0283,2024-10,21.65,6,36.39,17.42,474000,48.79,29.16,Retail,Medium,High,Evening,Website,High
+LEAD-0284,2024-11,17.45,1,37.22,11.87,1914000,76.49,50.42,Retail,Medium,Low,Late Morning,Google Ads,High
+LEAD-0285,2023-02,31.3,10,59.17,32.56,309000,59.08,41.81,IT Services,Low,High,Afternoon,Referral,Low
+LEAD-0286,2025-03,28.15,5,66.7,18.93,623000,75.86,40.53,Hospitality,Medium,Medium,Evening,Partner,High
+LEAD-0287,2023-02,13.87,8,51.23,14.46,872000,55.21,24.49,Retail,High,Low,Evening,LinkedIn,Low
+LEAD-0288,2025-02,31.91,5,38.3,6.4,924000,62.07,33.58,Real Estate,Medium,Low,Afternoon,Website,Low
+LEAD-0289,2024-05,38.82,9,51.44,30.59,743000,65.74,36.8,Logistics,High,Medium,Evening,WhatsApp,Medium
+LEAD-0290,2025-09,31.72,11,42.27,19.82,1144000,46.96,30.28,Healthcare,High,Medium,Evening,Referral,High
+LEAD-0291,2023-09,47.68,6,61.97,54.47,1429000,78.33,53.56,Hospitality,Critical,High,Late Morning,Referral,High
+LEAD-0292,2025-05,35.6,8,54.68,37.01,1475000,55.76,34.32,Professional Services,Medium,High,Morning,LinkedIn,Medium
+LEAD-0293,2025-02,37.87,10,41.28,8.45,406000,60.89,20.63,Real Estate,Medium,Low,Morning,Google Ads,Low
+LEAD-0294,2025-11,24.05,8,44.04,16.85,687000,47.1,32.24,Manufacturing,Low,High,Morning,Email Campaign,High
+LEAD-0295,2025-01,24.1,13,29.5,24.5,2082000,18.88,17.5,Retail,Critical,Low,Morning,Email Campaign,Low
+LEAD-0296,2024-12,45.75,3,64.96,64.77,1663000,61.56,68.25,Professional Services,Critical,High,Evening,Referral,Peak
+LEAD-0297,2024-01,59.74,7,76.34,42.26,304000,100.0,49.47,Retail,Medium,High,Afternoon,Cold Call,Low
+LEAD-0298,2023-07,39.28,14,66.22,35.5,1106000,79.12,54.28,Education,High,Medium,Afternoon,Cold Call,Medium
+LEAD-0299,2025-12,24.01,7,50.71,36.78,193000,64.65,41.14,Real Estate,Medium,High,Late Morning,LinkedIn,Peak
+LEAD-0300,2024-08,36.78,14,61.44,34.99,880000,60.27,60.36,Education,High,Medium,Late Morning,Email Campaign,Medium
+LEAD-0301,2023-01,27.67,10,58.26,18.99,3528000,65.4,41.57,IT Services,Low,Medium,Evening,Referral,Low
+LEAD-0302,2023-08,33.77,12,49.02,45.71,418000,74.85,52.93,Education,High,High,Afternoon,Google Ads,Medium
+LEAD-0303,2024-04,19.17,6,55.29,5.17,455000,43.75,20.7,IT Services,Low,Medium,Afternoon,Email Campaign,Medium
+LEAD-0304,2024-02,45.85,12,71.66,51.63,1508000,85.06,49.31,IT Services,High,Medium,Morning,Referral,Low
+LEAD-0305,2023-12,68.11,7,56.84,35.79,267000,77.88,50.69,Professional Services,High,Medium,Evening,Referral,Peak
+LEAD-0306,2024-11,33.48,14,53.54,39.82,529000,77.93,35.18,Retail,High,High,Evening,Website,High
+LEAD-0307,2024-03,24.92,2,60.16,20.25,1330000,72.89,26.53,Manufacturing,Low,Medium,Morning,Google Ads,High
+LEAD-0308,2025-04,37.25,9,55.71,16.48,528000,65.35,45.3,Education,Medium,Low,Evening,Website,Medium
+LEAD-0309,2025-10,37.18,10,58.59,25.0,712000,77.11,25.83,Real Estate,Medium,High,Evening,LinkedIn,High
+LEAD-0310,2023-02,55.64,10,63.01,49.71,1485000,75.65,48.25,IT Services,Medium,High,Late Morning,Website,Low
+LEAD-0311,2025-08,29.1,1,62.54,12.31,1166000,58.63,20.2,Retail,Low,Low,Afternoon,WhatsApp,Medium
+LEAD-0312,2024-11,33.87,1,56.22,43.08,1038000,54.68,35.66,Healthcare,Critical,Medium,Evening,Website,High
+LEAD-0313,2024-10,22.08,3,51.97,21.61,659000,66.83,39.48,Hospitality,Medium,Low,Late Morning,WhatsApp,High
+LEAD-0314,2025-01,54.61,14,77.56,30.08,1122000,92.88,62.17,Professional Services,Medium,Medium,Afternoon,Email Campaign,Low
+LEAD-0315,2024-10,12.95,3,31.59,18.48,775000,42.7,37.86,Manufacturing,Medium,Medium,Morning,Cold Call,High
+LEAD-0316,2024-10,30.75,1,44.3,28.39,1198000,38.58,18.11,Finance,Medium,High,Late Morning,Partner,High
+LEAD-0317,2023-06,56.94,12,71.66,57.33,586000,67.97,45.99,Professional Services,High,High,Late Morning,Partner,High
+LEAD-0318,2024-03,30.38,7,50.79,18.49,741000,65.92,76.66,Healthcare,Medium,High,Afternoon,Referral,High
+LEAD-0319,2025-09,36.31,4,43.34,33.11,405000,68.12,39.74,Hospitality,Critical,Medium,Morning,Partner,High
+LEAD-0320,2023-08,29.11,10,48.8,28.2,828000,69.39,32.27,Healthcare,Medium,High,Late Morning,WhatsApp,Medium
+LEAD-0321,2023-05,40.75,13,39.33,34.91,463000,60.98,32.5,Education,Critical,Medium,Evening,Google Ads,Medium
+LEAD-0322,2023-04,33.0,2,62.04,56.07,369000,91.82,58.5,IT Services,High,Enterprise,Evening,Website,Medium
+LEAD-0323,2023-06,27.55,10,33.97,20.35,1032000,36.18,19.48,Manufacturing,Medium,High,Evening,WhatsApp,High
+LEAD-0324,2025-08,24.5,5,32.0,13.37,997000,50.09,24.88,Logistics,Critical,Low,Morning,Google Ads,Medium
+LEAD-0325,2025-06,31.97,6,53.47,25.89,1529000,63.14,37.26,IT Services,Low,High,Late Morning,Cold Call,High
+LEAD-0326,2025-11,24.77,9,44.7,23.18,615000,35.42,23.77,Logistics,High,Medium,Evening,Partner,High
+LEAD-0327,2024-04,25.85,4,39.34,33.78,1154000,61.83,30.09,Hospitality,Medium,High,Morning,Cold Call,Medium
+LEAD-0328,2024-01,29.32,2,80.87,34.23,1285000,94.91,58.38,Retail,High,Low,Evening,Partner,Low
+LEAD-0329,2025-06,29.54,5,60.05,6.48,1187000,65.38,32.9,Finance,High,Low,Afternoon,Website,High
+LEAD-0330,2024-07,54.53,3,61.71,44.0,458000,69.15,51.48,Real Estate,High,High,Late Morning,LinkedIn,Medium
+LEAD-0331,2024-05,10.0,2,35.95,17.99,951000,42.32,10.0,IT Services,High,Medium,Late Morning,Website,Medium
+LEAD-0332,2024-07,21.18,12,54.74,23.86,1117000,53.91,34.18,Manufacturing,Medium,High,Morning,Email Campaign,Medium
+LEAD-0333,2025-04,28.65,1,38.71,5.0,855000,58.25,10.0,Healthcare,Low,Medium,Morning,WhatsApp,Medium
+LEAD-0334,2025-02,40.55,10,58.02,37.61,178000,59.28,38.09,Manufacturing,Medium,High,Late Morning,Referral,Low
+LEAD-0335,2025-02,72.88,2,63.48,40.77,959000,88.07,60.48,Hospitality,Low,High,Evening,LinkedIn,Low
+LEAD-0336,2024-11,53.14,6,63.35,40.6,4468000,75.04,58.44,Logistics,High,Medium,Evening,Website,High
+LEAD-0337,2023-09,27.14,8,30.67,10.47,649000,44.99,27.26,Healthcare,Medium,Medium,Afternoon,Google Ads,High
+LEAD-0338,2023-12,35.1,13,44.53,37.57,492000,69.44,51.15,Real Estate,Critical,Medium,Evening,LinkedIn,Peak
+LEAD-0339,2023-01,40.8,3,60.46,23.81,1125000,73.97,38.63,Real Estate,High,Low,Morning,WhatsApp,Low
+LEAD-0340,2023-01,55.64,11,57.1,30.55,1074000,85.52,44.08,IT Services,High,Medium,Morning,Partner,Low
+LEAD-0341,2025-10,43.12,9,69.07,26.07,2079000,93.45,78.1,Hospitality,Low,High,Evening,LinkedIn,High
+LEAD-0342,2025-08,26.38,12,28.4,24.37,331000,46.73,37.83,Retail,High,Enterprise,Morning,Partner,Medium
+LEAD-0343,2025-01,38.0,9,48.86,42.72,1471000,50.4,25.9,Hospitality,Critical,High,Late Morning,WhatsApp,Low
+LEAD-0344,2023-01,20.39,2,29.31,24.17,1324000,42.36,10.18,Logistics,Medium,High,Late Morning,Website,Low
+LEAD-0345,2024-04,42.83,8,55.8,43.11,764000,60.79,37.79,Manufacturing,High,High,Evening,WhatsApp,Medium
+LEAD-0346,2023-05,47.03,10,60.4,43.08,1096000,73.39,60.02,Real Estate,High,High,Late Morning,LinkedIn,Medium
+LEAD-0347,2024-10,46.47,11,56.65,12.57,1840000,82.77,42.14,Manufacturing,Low,Medium,Late Morning,Google Ads,High
+LEAD-0348,2025-05,39.17,12,57.64,40.92,1635000,63.63,20.72,Manufacturing,Medium,High,Afternoon,Cold Call,Medium
+LEAD-0349,2023-03,37.34,5,52.33,24.9,361000,59.24,33.6,Manufacturing,Medium,High,Afternoon,LinkedIn,High
+LEAD-0350,2023-12,31.38,4,46.8,19.9,1572000,67.73,37.42,Real Estate,Low,Medium,Late Morning,WhatsApp,Peak
+LEAD-0351,2025-02,24.86,10,36.41,5.0,810000,49.97,10.0,Professional Services,Medium,Low,Evening,Cold Call,Low
+LEAD-0352,2024-04,38.46,5,52.94,12.14,898000,100.0,49.49,Education,Low,Medium,Afternoon,WhatsApp,Medium
+LEAD-0353,2024-10,19.46,4,40.08,5.0,898000,36.06,10.0,Logistics,Low,Medium,Morning,Google Ads,High
+LEAD-0354,2025-05,37.57,8,41.5,17.41,759000,68.33,18.48,Professional Services,Low,High,Morning,WhatsApp,Medium
+LEAD-0355,2024-02,51.15,4,72.96,54.85,2078000,100.0,80.24,Logistics,Critical,Medium,Morning,Website,Low
+LEAD-0356,2025-04,44.02,13,49.95,27.58,798000,65.12,28.38,Healthcare,Medium,Medium,Evening,Referral,Medium
+LEAD-0357,2023-05,47.45,10,53.48,60.52,367000,61.58,42.22,Hospitality,Critical,Enterprise,Late Morning,Partner,Medium
+LEAD-0358,2025-06,23.17,12,42.99,14.29,633000,58.57,24.55,Hospitality,Medium,Low,Morning,Partner,High
+LEAD-0359,2023-05,23.36,13,50.5,16.51,972000,61.75,33.59,Finance,Medium,Medium,Evening,LinkedIn,Medium
+LEAD-0360,2023-12,43.24,14,69.43,21.01,2137000,89.71,65.39,Hospitality,Medium,Low,Afternoon,Referral,Peak
+LEAD-0361,2024-04,17.12,6,31.27,18.55,1336000,25.19,10.0,Real Estate,Medium,High,Late Morning,WhatsApp,Medium
+LEAD-0362,2025-02,54.87,2,68.78,43.33,449000,92.6,53.77,Retail,Low,High,Afternoon,Google Ads,Low
+LEAD-0363,2025-02,26.34,5,44.48,20.97,5481000,39.37,26.26,IT Services,High,Medium,Evening,LinkedIn,Low
+LEAD-0364,2024-09,41.18,6,38.79,33.88,1037000,60.2,30.26,Finance,Medium,High,Morning,WhatsApp,High
+LEAD-0365,2025-12,60.96,5,56.91,41.57,2212000,57.27,37.09,IT Services,High,Medium,Morning,Cold Call,Peak
+LEAD-0366,2025-09,54.05,12,64.19,60.62,759000,75.59,61.18,Logistics,High,High,Evening,Email Campaign,High
+LEAD-0367,2025-06,12.31,2,29.38,12.23,1268000,36.23,13.03,IT Services,Low,High,Morning,WhatsApp,High
+LEAD-0368,2024-11,24.45,14,56.73,33.22,1595000,73.32,41.23,IT Services,Low,High,Late Morning,Referral,High
+LEAD-0369,2023-10,47.74,7,74.15,49.56,2119000,100.0,58.03,Finance,High,Low,Evening,LinkedIn,High
+LEAD-0370,2023-05,36.96,4,37.54,28.7,1879000,40.46,27.21,Healthcare,Medium,Enterprise,Afternoon,Referral,Medium
+LEAD-0371,2025-12,37.85,8,58.03,18.11,1635000,68.41,39.56,Manufacturing,Low,High,Evening,LinkedIn,Peak
+LEAD-0372,2025-10,19.71,7,55.58,26.52,671000,53.08,39.03,Hospitality,Critical,Medium,Late Morning,WhatsApp,High
+LEAD-0373,2025-07,61.49,7,63.2,36.33,554000,72.67,64.79,Hospitality,Low,High,Late Morning,Website,Medium
+LEAD-0374,2023-10,31.48,9,38.53,13.31,1091000,65.34,10.0,Real Estate,High,Medium,Evening,Cold Call,High
+LEAD-0375,2024-07,42.89,1,54.5,45.55,1711000,53.45,38.32,Finance,Critical,High,Evening,WhatsApp,Medium
+LEAD-0376,2025-08,55.11,10,66.94,25.19,719000,73.78,28.37,Real Estate,Medium,Low,Morning,Partner,Medium
+LEAD-0377,2023-01,64.64,6,72.09,36.9,1890000,97.48,52.93,Retail,Low,High,Late Morning,Referral,Low
+LEAD-0378,2023-05,38.21,6,58.68,23.14,2527000,61.56,44.61,Retail,Low,Medium,Evening,Email Campaign,Medium
+LEAD-0379,2023-04,46.4,6,75.39,27.74,428000,77.96,56.77,Real Estate,Medium,Low,Evening,Email Campaign,Medium
+LEAD-0380,2024-04,33.57,13,51.66,25.75,454000,41.72,40.23,Finance,Low,Medium,Late Morning,Google Ads,Medium
+LEAD-0381,2024-12,20.17,12,42.93,11.94,765000,47.78,38.03,Real Estate,High,Low,Evening,LinkedIn,Peak
+LEAD-0382,2024-04,35.97,6,63.33,17.66,1071000,73.5,37.52,Hospitality,Low,Medium,Morning,Referral,Medium
+LEAD-0383,2023-02,49.33,12,69.75,28.07,574000,91.71,65.08,Professional Services,Medium,Medium,Late Morning,Google Ads,Low
+LEAD-0384,2025-04,44.34,10,55.09,45.25,2343000,71.4,63.94,Education,Critical,Medium,Morning,Referral,Medium
+LEAD-0385,2025-08,29.88,7,48.09,37.39,1168000,59.36,41.19,IT Services,High,Medium,Morning,Partner,Medium
+LEAD-0386,2025-03,39.77,14,65.41,42.56,876000,64.99,55.91,Education,High,Medium,Morning,LinkedIn,High
+LEAD-0387,2024-08,22.42,10,35.51,34.33,290000,42.49,31.55,Finance,Medium,High,Morning,WhatsApp,Medium
+LEAD-0388,2024-12,37.83,6,71.13,23.89,317000,75.88,56.61,Education,High,Low,Late Morning,WhatsApp,Peak
+LEAD-0389,2023-12,37.19,1,63.98,51.38,1049000,80.88,52.76,Retail,Medium,High,Morning,Email Campaign,Peak
+LEAD-0390,2025-11,39.21,3,35.78,36.84,172000,56.86,32.39,Logistics,Medium,High,Morning,WhatsApp,High
+LEAD-0391,2025-09,20.95,2,53.01,31.59,1817000,56.54,25.3,IT Services,Low,High,Evening,WhatsApp,High
+LEAD-0392,2025-09,38.38,6,36.88,38.18,755000,69.79,43.03,Manufacturing,High,Medium,Late Morning,Partner,High
+LEAD-0393,2023-12,35.08,8,56.56,24.55,9677000,57.14,35.15,Finance,Medium,High,Late Morning,Website,Peak
+LEAD-0394,2023-03,35.83,3,61.66,15.93,4799000,63.81,24.83,IT Services,Medium,Low,Afternoon,Email Campaign,High
+LEAD-0395,2023-01,47.66,10,65.27,16.18,742000,100.0,48.16,Education,Medium,Low,Late Morning,Google Ads,Low
+LEAD-0396,2025-09,36.7,8,49.42,28.77,785000,60.55,32.05,Retail,Medium,Medium,Late Morning,Cold Call,High
+LEAD-0397,2023-10,30.2,8,66.29,41.47,1793000,58.55,30.09,Healthcare,High,High,Afternoon,Website,High
+LEAD-0398,2025-05,37.24,5,42.79,23.84,3049000,53.34,42.71,Professional Services,High,Low,Late Morning,Google Ads,Medium
+LEAD-0399,2024-01,37.6,8,50.99,42.07,249000,78.4,62.12,Manufacturing,High,Medium,Late Morning,LinkedIn,Low
+LEAD-0400,2023-12,49.81,6,65.29,43.21,223000,61.74,53.22,Professional Services,Low,Enterprise,Late Morning,Website,Peak
+LEAD-0401,2025-07,42.79,5,65.58,42.47,533000,53.31,38.01,IT Services,Medium,High,Late Morning,Partner,Medium
+LEAD-0402,2023-02,52.63,9,63.86,23.74,1316000,88.78,48.04,Retail,Medium,Medium,Afternoon,Google Ads,Low
+LEAD-0403,2025-11,37.09,14,73.91,11.55,1234000,90.55,34.16,Retail,Low,Low,Late Morning,LinkedIn,High
+LEAD-0404,2024-11,32.82,7,57.48,45.34,1896000,54.19,44.4,Education,Medium,High,Late Morning,Email Campaign,High
+LEAD-0405,2024-05,11.91,8,24.09,25.02,346000,31.4,24.58,Hospitality,High,Medium,Afternoon,Cold Call,Medium
+LEAD-0406,2025-02,23.72,1,56.96,9.07,150000,83.14,69.02,Education,Low,Low,Evening,LinkedIn,Low
+LEAD-0407,2023-08,11.09,11,53.55,12.78,1618000,52.68,39.05,Hospitality,Medium,Low,Morning,WhatsApp,Medium
+LEAD-0408,2025-05,48.54,2,72.24,29.5,457000,79.23,49.13,Hospitality,Medium,High,Evening,Referral,Medium
+LEAD-0409,2025-02,24.32,8,38.71,12.09,187000,29.54,17.11,Manufacturing,Low,High,Afternoon,LinkedIn,Low
+LEAD-0410,2023-10,54.16,12,52.27,47.47,948000,81.07,63.11,Education,Medium,High,Morning,LinkedIn,High
+LEAD-0411,2025-02,33.28,9,58.14,40.95,1541000,43.2,24.61,Healthcare,Critical,High,Afternoon,Cold Call,Low
+LEAD-0412,2025-10,59.4,4,52.61,34.58,776000,78.15,58.67,Real Estate,High,Medium,Afternoon,Referral,High
+LEAD-0413,2023-07,41.29,12,47.28,42.74,603000,65.26,33.45,Real Estate,Critical,Medium,Late Morning,WhatsApp,Medium
+LEAD-0414,2023-04,24.27,10,44.99,12.81,754000,47.83,20.39,Education,Medium,Medium,Morning,Google Ads,Medium
+LEAD-0415,2023-11,30.03,11,61.31,22.72,644000,57.67,15.52,Education,Low,Medium,Late Morning,Google Ads,High
+LEAD-0416,2025-05,42.06,10,68.23,39.32,309000,77.35,54.71,Professional Services,Medium,Medium,Morning,LinkedIn,Medium
+LEAD-0417,2025-12,45.07,14,57.93,36.89,497000,66.91,45.52,Manufacturing,Medium,High,Afternoon,Partner,Peak
+LEAD-0418,2025-01,47.24,9,61.31,57.51,1257000,75.52,48.5,Education,High,Medium,Afternoon,Partner,Low
+LEAD-0419,2024-09,40.44,4,73.39,24.55,1082000,100.0,44.3,Professional Services,Low,High,Evening,Referral,High
+LEAD-0420,2025-12,30.06,10,38.79,26.03,964000,36.84,39.48,Hospitality,Medium,Medium,Morning,Referral,Peak
+LEAD-0421,2023-10,34.32,10,43.99,11.91,403000,94.11,45.18,Retail,Low,Medium,Late Morning,WhatsApp,High
+LEAD-0422,2023-09,41.57,10,49.11,37.98,742000,66.88,35.71,Retail,Medium,High,Evening,Cold Call,High
+LEAD-0423,2024-12,28.53,9,42.52,31.5,166000,48.82,52.21,Hospitality,High,Medium,Evening,Email Campaign,Peak
+LEAD-0424,2025-11,22.87,11,31.72,19.09,972000,41.05,18.59,Finance,Medium,High,Evening,Google Ads,High
+LEAD-0425,2025-11,28.85,7,55.35,28.17,2482000,61.6,48.96,Professional Services,Medium,Medium,Late Morning,Cold Call,High
+LEAD-0426,2025-12,30.76,2,61.03,16.29,281000,81.59,30.91,Professional Services,Medium,Medium,Evening,Website,Peak
+LEAD-0427,2024-06,26.57,9,63.79,24.84,548000,62.7,33.36,Hospitality,Medium,Low,Late Morning,Google Ads,High
+LEAD-0428,2025-08,61.13,4,81.37,49.14,1088000,92.2,63.71,Healthcare,High,Medium,Evening,Cold Call,Medium
+LEAD-0429,2024-12,28.0,8,34.29,28.93,2175000,38.88,27.04,Logistics,High,Medium,Late Morning,Google Ads,Peak
+LEAD-0430,2024-11,54.68,14,52.87,54.79,607000,64.78,50.76,IT Services,Critical,High,Afternoon,Email Campaign,High
+LEAD-0431,2025-08,42.39,7,36.19,42.94,506000,42.46,28.75,Hospitality,High,Enterprise,Afternoon,Website,Medium
+LEAD-0432,2023-12,32.82,13,50.89,25.46,194000,71.55,25.13,Education,Medium,Medium,Afternoon,Partner,Peak
+LEAD-0433,2024-01,53.63,7,61.89,40.54,919000,80.96,65.28,Education,High,High,Afternoon,Partner,Low
+LEAD-0434,2024-11,26.85,8,42.16,15.25,3932000,57.43,26.4,Manufacturing,Medium,Medium,Afternoon,Email Campaign,High
+LEAD-0435,2025-01,15.73,1,13.29,23.69,1047000,18.12,19.34,Hospitality,Medium,High,Evening,WhatsApp,Low
+LEAD-0436,2025-11,50.76,5,60.72,37.2,836000,68.58,50.9,Manufacturing,High,Low,Evening,Website,High
+LEAD-0437,2025-06,38.38,2,59.24,18.77,1082000,72.86,42.44,Hospitality,Low,Medium,Evening,LinkedIn,High
+LEAD-0438,2024-05,39.38,2,50.51,37.57,843000,72.28,38.59,Professional Services,Critical,Medium,Late Morning,Cold Call,Medium
+LEAD-0439,2024-08,47.72,1,74.64,29.5,462000,87.24,61.18,IT Services,Medium,Medium,Late Morning,Website,Medium
+LEAD-0440,2025-01,16.76,5,37.46,24.19,1576000,45.72,34.18,Professional Services,High,Low,Late Morning,WhatsApp,Low
+LEAD-0441,2024-10,43.57,2,61.86,32.35,1007000,77.24,48.07,Logistics,High,Low,Late Morning,WhatsApp,High
+LEAD-0442,2024-01,43.09,4,69.94,55.16,861000,86.47,59.97,Retail,High,Medium,Afternoon,Email Campaign,Low
+LEAD-0443,2024-07,18.22,3,32.24,32.33,409000,32.99,42.98,Real Estate,High,Enterprise,Afternoon,Google Ads,Medium
+LEAD-0444,2025-12,44.06,3,56.51,32.48,2259000,70.75,35.91,Hospitality,High,Medium,Afternoon,Website,Peak
+LEAD-0445,2023-12,10.0,2,43.21,14.36,1399000,55.92,34.35,Logistics,Low,Medium,Morning,Cold Call,Peak
+LEAD-0446,2024-07,44.6,13,48.17,17.65,561000,63.53,29.48,Retail,Medium,Low,Evening,Website,Medium
+LEAD-0447,2023-12,39.61,6,56.84,17.77,1802000,71.26,18.92,Finance,Low,Medium,Late Morning,Referral,Peak
+LEAD-0448,2023-09,15.07,2,42.81,22.44,585000,56.23,13.53,IT Services,High,Medium,Late Morning,Google Ads,High
+LEAD-0449,2023-07,50.15,14,44.87,27.71,473000,52.84,23.33,Manufacturing,Medium,Medium,Afternoon,Cold Call,Medium
+LEAD-0450,2025-04,58.77,14,39.55,32.03,481000,65.61,34.15,Manufacturing,High,Medium,Late Morning,Partner,Medium
+LEAD-0451,2024-02,16.71,8,38.57,5.0,225000,45.43,43.92,Professional Services,Low,Low,Late Morning,Cold Call,Low
+LEAD-0452,2025-07,12.88,8,38.04,9.75,1211000,45.46,30.85,Education,Low,Low,Evening,LinkedIn,Medium
+LEAD-0453,2024-07,59.72,13,55.17,42.67,215000,77.23,57.57,Retail,High,Medium,Afternoon,Email Campaign,Medium
+LEAD-0454,2024-04,15.01,14,41.7,5.0,338000,44.32,15.32,Finance,Low,Low,Evening,LinkedIn,Medium
+LEAD-0455,2023-05,33.11,12,58.89,10.82,179000,76.99,39.05,Logistics,Low,Low,Morning,Cold Call,Medium
+LEAD-0456,2025-11,47.21,5,63.24,26.24,797000,73.33,65.24,IT Services,Low,Medium,Morning,Google Ads,High
+LEAD-0457,2023-12,26.81,10,41.54,35.9,759000,33.94,15.69,Retail,Critical,High,Morning,Website,Peak
+LEAD-0458,2025-01,29.47,7,42.69,28.7,665000,52.8,38.37,Finance,High,Medium,Afternoon,Partner,Low
+LEAD-0459,2024-09,24.36,4,51.14,9.48,389000,86.49,58.35,Real Estate,Medium,Medium,Late Morning,Website,High
+LEAD-0460,2025-12,20.8,1,30.16,20.61,353000,47.34,38.18,Hospitality,Medium,Medium,Afternoon,Google Ads,Peak
+LEAD-0461,2024-11,29.11,11,44.17,25.27,1204000,56.64,52.35,Manufacturing,Medium,Enterprise,Afternoon,Cold Call,High
+LEAD-0462,2024-04,35.81,2,54.26,44.57,562000,73.32,50.72,Logistics,High,Medium,Late Morning,WhatsApp,Medium
+LEAD-0463,2024-02,28.22,10,53.98,21.6,1078000,79.1,49.19,Manufacturing,High,Low,Evening,Website,Low
+LEAD-0464,2025-07,29.13,10,38.69,17.09,438000,60.47,34.29,Logistics,Medium,Medium,Morning,WhatsApp,Medium
+LEAD-0465,2023-05,10.0,4,43.73,5.0,974000,54.24,31.49,Professional Services,Low,Low,Evening,Website,Medium
+LEAD-0466,2025-11,34.66,1,67.06,22.17,2259000,90.6,39.38,Education,Low,Medium,Morning,Website,High
+LEAD-0467,2024-11,73.62,13,75.42,54.13,1319000,96.3,70.2,Logistics,High,Medium,Afternoon,Partner,High
+LEAD-0468,2025-05,38.46,8,57.82,27.34,624000,82.62,49.69,Manufacturing,High,High,Morning,Email Campaign,Medium
+LEAD-0469,2023-11,34.53,9,50.88,33.36,1031000,66.54,42.24,Professional Services,Medium,Medium,Afternoon,Email Campaign,High
+LEAD-0470,2024-06,24.26,4,36.51,20.89,710000,50.45,47.48,Logistics,Low,High,Evening,Referral,High
+LEAD-0471,2023-12,23.19,10,41.65,18.54,855000,50.05,26.36,Real Estate,Low,Enterprise,Afternoon,LinkedIn,Peak
+LEAD-0472,2023-09,39.16,3,48.89,18.94,666000,74.41,52.19,Education,Critical,Low,Evening,Google Ads,High
+LEAD-0473,2023-10,48.13,2,62.15,41.57,751000,72.53,60.26,Logistics,Medium,Medium,Late Morning,Google Ads,High
+LEAD-0474,2024-05,40.21,5,51.55,26.13,997000,90.23,58.3,Professional Services,High,Medium,Late Morning,Google Ads,Medium
+LEAD-0475,2023-07,36.76,14,53.95,25.82,404000,76.71,33.91,Retail,High,Medium,Late Morning,Referral,Medium
+LEAD-0476,2024-01,36.02,3,40.08,27.2,397000,37.94,30.19,Healthcare,Medium,Medium,Afternoon,Email Campaign,Low
+LEAD-0477,2023-09,36.95,10,67.32,43.68,300000,83.94,72.64,Finance,Medium,High,Late Morning,Cold Call,High
+LEAD-0478,2025-03,27.88,7,66.61,26.41,256000,47.03,12.22,Healthcare,Low,High,Morning,WhatsApp,High
+LEAD-0479,2023-02,36.84,11,51.6,34.28,341000,58.09,36.26,Healthcare,High,Medium,Evening,Partner,Low
+LEAD-0480,2023-05,28.8,6,47.79,23.76,958000,69.5,51.22,IT Services,High,Medium,Evening,WhatsApp,Medium
+LEAD-0481,2025-05,60.0,1,68.54,57.61,435000,100.0,64.01,Real Estate,High,High,Morning,Cold Call,Medium
+LEAD-0482,2024-07,49.47,12,54.01,48.36,1249000,100.0,70.02,Retail,Medium,Enterprise,Afternoon,Partner,Medium
+LEAD-0483,2023-08,45.57,8,54.53,30.9,872000,75.92,59.07,Hospitality,Low,High,Afternoon,Referral,Medium
+LEAD-0484,2023-01,22.78,2,43.54,26.43,194000,61.7,39.34,Logistics,Critical,Low,Evening,Cold Call,Low
+LEAD-0485,2024-10,62.67,5,68.78,62.34,1389000,74.62,60.49,Finance,High,High,Late Morning,Google Ads,High
+LEAD-0486,2024-05,35.18,9,55.19,16.49,1561000,80.98,43.13,Education,Medium,Low,Afternoon,LinkedIn,Medium
+LEAD-0487,2023-07,29.32,8,46.52,27.06,403000,59.23,39.1,Retail,Critical,Medium,Afternoon,Website,Medium
+LEAD-0488,2025-01,40.62,2,65.2,32.44,1165000,97.31,76.17,Manufacturing,High,Low,Morning,WhatsApp,Low
+LEAD-0489,2023-04,53.53,9,67.18,46.85,447000,69.14,46.87,Hospitality,Medium,Medium,Morning,Email Campaign,Medium
+LEAD-0490,2025-12,37.3,5,56.39,36.96,915000,73.96,42.69,IT Services,High,High,Late Morning,Email Campaign,Peak
+LEAD-0491,2023-06,32.29,10,77.44,32.64,329000,76.99,56.49,IT Services,High,Low,Afternoon,Referral,High
+LEAD-0492,2025-07,52.18,14,62.25,40.8,221000,72.59,38.51,Retail,High,Medium,Afternoon,Partner,Medium
+LEAD-0493,2024-07,31.37,6,66.39,23.49,638000,80.1,38.12,Professional Services,Low,Medium,Morning,Email Campaign,Medium
+LEAD-0494,2025-03,25.69,13,49.46,16.86,775000,53.89,24.07,Healthcare,Medium,Medium,Afternoon,Google Ads,High
+LEAD-0495,2023-10,41.72,3,51.17,35.41,631000,54.95,34.56,Manufacturing,Critical,Low,Evening,WhatsApp,High
+LEAD-0496,2025-02,30.03,13,26.11,28.77,350000,45.2,28.29,IT Services,Medium,Medium,Morning,Cold Call,Low
+LEAD-0497,2024-07,56.37,3,57.09,37.78,630000,72.91,53.02,Finance,Medium,High,Late Morning,Google Ads,Medium
+LEAD-0498,2023-03,28.68,10,69.67,17.11,1040000,79.02,38.13,IT Services,Medium,Low,Morning,Referral,High
+LEAD-0499,2024-01,26.55,8,55.44,5.77,822000,73.24,42.37,Education,Medium,Low,Afternoon,Google Ads,Low
+LEAD-0500,2025-04,48.91,11,56.78,37.06,975000,95.14,64.43,Logistics,High,Medium,Late Morning,Cold Call,Medium
